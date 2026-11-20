@@ -259,16 +259,6 @@ Verify each link before relying on it.
 - Bureau of Indian Standards, hallmarking and HUID: https://www.bis.gov.in
 - GST job-work provisions: https://www.gst.gov.in
 
-## 👥 Team
-
-| Name | Role |
-|---|---|
-| _Name_ | Agents and backend |
-| _Name_ | Frontend and karigar PWA |
-| _Name_ | Field research, product and pitch |
-
----
-
 <div align="center">
 
 *This repository currently documents the design. Code, tests and the evaluation set will be added during the prototype round.*
